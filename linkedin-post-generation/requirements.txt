@@ -1,0 +1,6 @@
+streamlit
+langchain
+landchain-openai
+langchain-grog
+python-dotenv
+S
